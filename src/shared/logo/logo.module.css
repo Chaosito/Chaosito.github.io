@@ -1,0 +1,25 @@
+.logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.circle {
+  background: linear-gradient(135deg, #2d2d2d 0%, #7cbcb6 100%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+}
+
+.text {
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+  user-select: none;
+  font-size: 24px;
+}
