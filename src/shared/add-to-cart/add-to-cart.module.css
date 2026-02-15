@@ -1,0 +1,41 @@
+.addButton {
+  background: #27ae60;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  width: 100px;
+  text-align: center;
+}
+
+.counter {
+  display: flex;
+  align-items: center;
+  border-radius: 6px;
+  overflow: hidden;
+  width: 100px;
+  background: #27ae60;
+}
+
+.btn {
+  background: transparent;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.count {
+  background: transparent;
+  text-align: center;
+  color: #fff;
+  flex: 1;
+  border: none;
+  width: 20px;
+  outline: none;
+}
